@@ -1,0 +1,3 @@
+﻿  RandomSelect.cpp
+C:\Users\18158\source\repos\RandomSelect\RandomSelect.cpp(37): warning C4715: “Rand_select”: 不是所有的控件路径都返回值
+  RandomSelect.vcxproj -> C:\Users\18158\source\repos\RandomSelect\Debug\RandomSelect.exe
