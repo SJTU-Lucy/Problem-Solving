@@ -1,0 +1,5 @@
+﻿  Trie.cpp
+C:\Users\18158\source\repos\Trie\Trie.cpp(27,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\18158\source\repos\Trie\Trie.cpp(57,17): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\18158\source\repos\Trie\Trie.cpp(119,21): warning C4018: “<”: 有符号/无符号不匹配
+  Trie.vcxproj -> C:\Users\18158\source\repos\Trie\Debug\Trie.exe

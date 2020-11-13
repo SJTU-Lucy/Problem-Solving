@@ -1,0 +1,3 @@
+﻿  TreeTest.cpp
+C:\Users\18158\source\repos\TestForTrees\TreeTest.cpp(43,23): warning C4018: “<”: 有符号/无符号不匹配
+  TestForTrees.vcxproj -> C:\Users\18158\source\repos\TestForTrees\Debug\TestForTrees.exe

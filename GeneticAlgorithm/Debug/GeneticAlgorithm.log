@@ -1,0 +1,5 @@
+﻿  GeneticAlgorithm.cpp
+C:\Users\18158\source\repos\GeneticAlgorithm\GeneticAlgorithm.cpp(118,54): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\18158\source\repos\GeneticAlgorithm\GeneticAlgorithm.cpp(121,81): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\18158\source\repos\GeneticAlgorithm\GeneticAlgorithm.cpp(125,54): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  GeneticAlgorithm.vcxproj -> C:\Users\18158\source\repos\GeneticAlgorithm\Debug\GeneticAlgorithm.exe

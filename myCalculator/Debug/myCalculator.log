@@ -1,0 +1,4 @@
+﻿  myCalculator.cpp
+C:\Users\18158\source\repos\myCalculator\myCalculator.cpp(184): warning C4715: “primary”: 不是所有的控件路径都返回值
+C:\Users\18158\source\repos\myCalculator\myCalculator.cpp(60): warning C4715: “Token_stream::get”: 不是所有的控件路径都返回值
+  myCalculator.vcxproj -> C:\Users\18158\source\repos\myCalculator\Debug\myCalculator.exe
